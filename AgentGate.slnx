@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgentGate.AuthServer/AgentGate.AuthServer.csproj" />
+    <Project Path="src/AgentGate.Gateway/AgentGate.Gateway.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AgentGate.Tests/AgentGate.Tests.csproj" />
+  </Folder>
+</Solution>
