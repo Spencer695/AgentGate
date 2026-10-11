@@ -1,7 +1,7 @@
 # AgentGate
 
-[![CI](https://github.com/Spencer695/AgentGate-/actions/workflows/ci.yml/badge.svg)](https://github.com/Spencer695/AgentGate-/actions/workflows/ci.yml)
-[![CodeQL](https://github.com/Spencer695/AgentGate-/actions/workflows/codeql.yml/badge.svg)](https://github.com/Spencer695/AgentGate-/actions/workflows/codeql.yml)
+[![CI](https://github.com/Spencer695/AgentGate/actions/workflows/ci.yml/badge.svg)](https://github.com/Spencer695/AgentGate/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/Spencer695/AgentGate/actions/workflows/codeql.yml/badge.svg)](https://github.com/Spencer695/AgentGate/actions/workflows/codeql.yml)
 
 Least-privilege identity for an AI support agent: an OAuth 2.1 authorization server and a policy-enforcing tool gateway in C#/.NET, so an LLM agent can take actions for a customer without ever holding more power than that customer.
 
